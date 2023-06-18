@@ -1,2 +1,2 @@
 # exemplos
-Exemplos de projetos, curso.
+Exemplos de projetos, curso
