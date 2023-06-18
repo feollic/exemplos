@@ -1,2 +1,4 @@
 # exemplos
-Exemplos de projetos, curso
+Exemplos de projetos para o curso. 
+
+Primeiro exemplo de commit e push no repositório remoto. 
